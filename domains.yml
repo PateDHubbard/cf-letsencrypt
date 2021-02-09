@@ -1,21 +1,12 @@
 {
-  "email": "ben@example.com",
+  "email": "paytondhubbard@gmail.com",
   "staging": false,
   "domains": [
     {
-      "domain": "example.com",
+      "domain": "patehubbard.com",
       "hosts": [
         ".",
-        "auth",
-        "test",
         "www"
-      ]
-    },
-    {
-      "domain": "example2.com",
-      "hosts": [
-        "abc",
-        "test"
       ]
     }
   ]
